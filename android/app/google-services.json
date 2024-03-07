@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "134050687918",
+    "firebase_url": "https://parque-nacional-app-default-rtdb.firebaseio.com",
+    "project_id": "parque-nacional-app",
+    "storage_bucket": "parque-nacional-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134050687918:android:870a619ef84816d6d7763f",
+        "android_client_info": {
+          "package_name": "com.mycompany.parquenacionalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdkAb6F2W-u8Bi_zzRitNR7ioaiNIdZ24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

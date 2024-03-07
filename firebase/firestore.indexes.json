@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "turmas",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "turmaCurso",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "turmaNome",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
